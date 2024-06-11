@@ -1,7 +1,7 @@
 <!-- Header -->
 
-### 🙇 안녕하세요, JAVA 풀스택 프로그래머 김태우입니다.
-### ⚽열정 넘치는 개발자 박앤드입니다.
+### 🙇 안녕하세요, JAVA 풀스택 프로그래머 김태우 입니다.
+### 🎉열정 넘치는 개발자 김태우 입니다.
 
 # 방문자수
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoo184&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23262424&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
