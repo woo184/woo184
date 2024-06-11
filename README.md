@@ -34,6 +34,4 @@
 ![intellij](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=kthl2)](https://solved.ac/profile/kthl2)
