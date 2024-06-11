@@ -6,7 +6,7 @@
 # 방문자수
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoo184&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23262424&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=+I%27m+Practice+Bug&fontSize=70&fontAlign=50&fontAlignY=50&desc=Hellow+world%21+Nice+to+meet+you&descSize=20&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&text=Practice+Bug+woo184&fontSize=50&fontAlign=50&fontAlignY=50&desc=Hellow+world%21+Nice+to+meet+you&descSize=20&descAlign=50&descAlignY=70)
 <!-- Body -->
 
 ### 🦾 Skills
